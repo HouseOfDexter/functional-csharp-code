@@ -1,3 +1,4 @@
+This is an awesome book...Go out and buy it now!!!-Rick Peterson
 # Functional Programming in C# #
 
 This repo contains the code samples, exercises and solutions for the book
